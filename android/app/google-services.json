@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927263212593",
+    "project_id": "nadevo-493db",
+    "storage_bucket": "nadevo-493db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927263212593:android:d3aa6cf9fa832f297b0110",
+        "android_client_info": {
+          "package_name": "com.example.getx_and_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv2rUvvIuH5BzH-78vh0MkSK4Iy22VBW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
